@@ -16,4 +16,12 @@ You can easily read more about creational patterns [here](http://beercoders.pl/a
 
 1. Prototype
 2. Factory
-3. Builder
+3. Builder 
+
+## Behavioral patterns
+
+You can easily read more about creational patterns [here](http://beercoders.pl/article/design-pattern-implementations-in-typescript-part-iii)
+
+1. Strategy
+2. Memento
+3. Template Method 
